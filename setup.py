@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='bosscat',
-    version=0.1,
+    version=0.0,
     author='Code Hat Labs, LLC',
     author_email='dev@codehatlabs.com',
     url='https://github.com/eightup/bosscat',
